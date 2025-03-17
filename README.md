@@ -45,8 +45,6 @@
     <li>El resultado del sorteo se mostrará en la parte inferior de la página.</li>
 </ol>
 
-<h2>Capturas de Pantalla</h2>
-<p><em>Agrega capturas de pantalla del proyecto en acción.</em></p>
 
 <h2>Contribuciones</h2>
 <p>Si deseas contribuir a este proyecto, sigue estos pasos:</p>
